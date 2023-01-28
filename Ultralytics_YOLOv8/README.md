@@ -27,7 +27,11 @@ Autonomous vehicles
 
 Security and surveillance
 
-Medical imaging 
+Healthcare-Medical imaging 
+
+Smart Agriculture
+
+Smart Manufacturing
 
 For more information on YOLO, you can refer to the following references:
 
