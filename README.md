@@ -4,9 +4,9 @@
 
 The Computer Vision & AI has been playing tremendous role in shaping the cities around the world to provide best living expereince to citizens. The smart-cities being the heart of any country, leveraging the AI in building the smarter and safer spaces is of paramount importance to any city governance or the administration bodies.
 
-During my professional acquaintance with multiple companies handling different smart-city, safecity and security projects, I had come across several challenging use-cases that the city administration bodies comes up with to solve using AI innovative techniques. Though, the AI has matured enough to deal with certain use-cses with acceptable accuracy, still there are lots of unsolved issues due to various reasons of it's own.
+During my professional acquaintance with multiple companies handling different smart-city, safecity and security projects, I had come across several challenging use-cases that the city administration bodies comes up with to solve using AI/CV techniques. Though, the AI has matured enough to deal with certain use-cses with acceptable accuracy, still there are lots of unsolved issues due to many reasons of it's own.
 
-Herewith, I would like to list the challenging use-cases that are requiring innovative model developments with performance and cost optimizations, given the shortcomings/limitations of the current state-of-the-art AI algorithms/models, difficulties in obtaining the use-cse specific data.
+Herewith, I would like to list the challenging use-cases that are requiring the innovative model developments/explorations with performance and cost optimizations, given the shortcomings/limitations of the current state-of-the-art AI algorithms/models and the difficulties in obtaining the use-cse specific data.
 
 The major use-cases are as follows:
 
