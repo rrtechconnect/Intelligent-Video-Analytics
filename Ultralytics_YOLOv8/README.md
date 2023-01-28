@@ -99,6 +99,15 @@ Redmon, J., & Farhadi, A. (2016). YOLO9000: Better, faster, stronger. In Proceed
     video 1/1 (55/341) /content/ultralytics/People-6387.mp4: 384x640 37 persons, 1 bird, 1 dog, 11.1ms
 
 
+![0104](https://user-images.githubusercontent.com/117635899/215254516-47adebe7-0ba3-4fa7-bb3e-173653ea2dde.jpg)
+
+![0007](https://user-images.githubusercontent.com/117635899/215254555-b8ed5007-0255-4df3-8158-853d3958f4ea.jpg)
+
+![0064](https://user-images.githubusercontent.com/117635899/215254596-6215fd1e-c004-46d2-8a86-eb40f3559a5b.jpg)
+
+![0010](https://user-images.githubusercontent.com/117635899/215254635-f3e3abeb-4feb-43ca-8ed7-5b4bee89b776.jpg)
+
+
 **YOLOv8 Object Segmentation**
 
 /content
@@ -136,6 +145,18 @@ YOLOv8n-seg summary (fused): 195 layers, 3404320 parameters, 0 gradients, 12.6 G
     video 1/1 (28/341) /content/ultralytics/People-6387.mp4: 384x640 37 persons, 10.4ms
     video 1/1 (29/341) /content/ultralytics/People-6387.mp4: 384x640 36 persons, 10.8ms
     video 1/1 (30/341) /content/ultralytics/People-6387.mp4: 384x640 36 persons, 11.0ms
+
+![0172](https://user-images.githubusercontent.com/117635899/215254828-42c39544-5c2f-435e-a0ce-36c837eaabdf.jpg)
+
+![0045](https://user-images.githubusercontent.com/117635899/215254844-9a5c4f32-ef6d-4ae6-85a2-c287b58e08c5.jpg)
+
+![0110](https://user-images.githubusercontent.com/117635899/215254867-d28ddcda-1af0-44f6-9761-09308ba9b7c7.jpg)
+
+![0015](https://user-images.githubusercontent.com/117635899/215254715-2fe0df6c-6a6a-4d99-ab48-3461136e14c9.jpg)
+
+![0141](https://user-images.githubusercontent.com/117635899/215254722-0238cdcf-88c2-4b33-abe7-3fcbd3bd5593.jpg)
+
+![0122](https://user-images.githubusercontent.com/117635899/215254777-068759cd-bb8b-4d27-aac8-b41f0f6bb62c.jpg)
 
 
 
