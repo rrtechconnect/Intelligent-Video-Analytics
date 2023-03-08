@@ -43,3 +43,6 @@ The major use-cases are as follows:
 31. Triple Riding Detection
 32. Loitering Detection
 33. Advanced Drone video Analytics
+
+
+[1]. R. R . Rajanna, et.al, “A Deep Learning based Vehicular Waiting Time Estimation during Red Signal and Origin Destination Matrix Calculation for Reduction of Commuter Traffic Delay Time”, BEL-IETE Symposium(BIS-2022), 18th 20th July 2022, BEL Academy of Excellence(Nalanda), Bengaluru.
